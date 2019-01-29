@@ -1,0 +1,190 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="Vaccines">
+        <item>Hepatitis B(HepB)</item>
+        <item>Rotavirus(RV)</item>
+        <item>Diphtheria,tetanus and acellular Pertussis(DTap)</item>
+        <item>Haemophilus influenzae type b(Hib)</item>
+        <item>Pneumcoccal Conjugate(PCV13)</item>
+        <item>Inactivated poliovirus(IPV)</item>
+        <item>Influenza(IIV)</item>
+        <item>Measles,mumps,rubella(MMR)</item>
+        <item>Varicella(VAR)</item>
+        <item>Hepatitis A(HepA)</item>
+        <item>Meningococcal</item>
+        <item>Tetanus,diphtheria,and acelluar pertussis(Tdap)</item>
+        <item>Human papillomavirus(HPV)</item>
+    </string-array>
+    <string name="Hepatitis_B">
+        The main objective of hepatitis B immunization strategies is to prevent chronic
+        HBV infection and its serious consequences, including liver cirrhosis and HCC.
+        Sri Lanka introduced Hepatitis B vaccine into National Immunization schedule in
+        year 2003 (on a phased basis) in the form of liquid monovalent vaccine. With the
+        introduction of Hib vaccine in year 2008, Hep B vaccine is given in the form of
+        liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Rotavirus">
+        According to the rotavirus surveillance conducted by the Epidemiology Unit at
+        tertiary care settings (Lady Ridgway Hospital) in Sri Lanka, the proportion of
+        rotavirus diarrhoea among all-cause diarrhoeal admissions in children under five
+        years of age was 23.9%. The reported mortality associated with rotavirus infections
+        in Sri Lanka is very low. Although rotavirus diarrhoea patients were hospitalized
+        throughout the year, the observed rotavirus peak was from January to
+        March and was consistent with the pattern of increase in all cause diarrhoeal admissions.
+        The most common G types detected in Sri Lanka were G3(32%) and
+        G9(30%) while the predominant P type was P8 (58%).
+    </string>
+    <string name="Diphtheria_tetanus_and_acellular_Pertussis">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+
+    <string name="Haemophilus_influenzae_type_b">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Pneumcoccal_Conjugate">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Inactivated_poliovirus">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Influenza">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Measles_mumps_rubella">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Varicella">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Hepatitis_A">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Meningococcal">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Tetanus_diphtheria_and_acelluar_pertussis">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+    <string name="Human_papillomavirus">
+        Fortunately, Haemophilus influenzae b disease (Hib) is preventable. Vaccines are the
+        only public health tool capable of preventing the majority of cases of serious Hib
+        disease. There is a highly safe and effective vaccine routinely used in the industrialized
+        world for over 15 years in their childhood immunization programmes and
+        has documented virtual elimination of Hib disease. Despite recommendations
+        from WHO that Hib vaccine be included in all countries’ routine infant immunization
+        programmes, in 2006, only 26% of children worldwide received Hib vaccine.
+        Sri Lanka has introduced Hib vaccine into its National Immunization schedule in
+        year 2008 in the form of liquid pentavalent vaccine (DTP-HepB+Hib).
+    </string>
+
+    <string-array name="rdhsArea">
+        <item>Ampara</item>
+        <item>Anuradhapura</item>
+        <item>Badulla</item>
+        <item>Batticlo</item>
+        <item>Colombo</item>
+        <item>Galle</item>
+        <item>Gampaha</item>
+        <item>Hambanthota</item>
+        <item>Jaffna</item>
+        <item>Kaluthara</item>
+        <item>Kandy</item>
+        <item>Kegalle</item>
+        <item>Kilinochchi</item>
+        <item>Kurunegala</item>
+        <item>Mannarama</item>
+        <item>Matale</item>
+        <item>Mathara</item>
+        <item>Monaragala</item>
+        <item>Mullathivu</item>
+        <item>Nuwara-Eliya</item>
+        <item>Polonnaruwa</item>
+        <item>Puttalama</item>
+        <item>Rathnapura</item>
+        <item>Thrincomalee</item>
+        <item>Vauniya</item>
+    </string-array>
+
+
+</resources>

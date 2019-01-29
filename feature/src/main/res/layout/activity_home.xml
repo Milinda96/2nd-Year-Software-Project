@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".HomeFragment">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:paddingLeft="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:src="@drawable/logo"
+                android:background="@drawable/menu"
+                android:layout_gravity="bottom" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:id="@+id/linearlayout1"
+                    android:layout_width="0dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:background="@color/colorG">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_child_care_black_24dp" />
+
+                    <TextView
+                        android:textColor="@color/colorBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="8dp"
+                        android:layout_marginTop="25dp"
+                        android:background="@color/colorGG"
+                        android:text="Child Details"
+                        android:textAlignment="center"
+                        android:textSize="18dp"/>
+                 </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearlayout2"
+                    android:layout_width="0dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:background="@color/colorD">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_group_black_24dp"/>
+
+                    <TextView
+                        android:textColor="@color/colorBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="8dp"
+                        android:layout_marginTop="25dp"
+                        android:background="@color/colorDD"
+                        android:text="Master"
+                        android:textAlignment="center"
+                        android:textSize="18dp"/>
+                </LinearLayout>
+
+           </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:id="@+id/linearlayout3"
+                    android:layout_width="0dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:background="@color/colorI">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_local_grocery_store_black_24dp" />
+
+                    <TextView
+                        android:textColor="@color/colorBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="8dp"
+                        android:layout_marginTop="25dp"
+                        android:background="@color/colorII"
+                        android:text="Vaccine Inventory"
+                        android:textAlignment="center"
+                        android:textSize="18dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearlayout4"
+                    android:layout_width="0dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:background="@color/colorJ">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_pregnant_woman_black_24dp" />
+
+                    <TextView
+                        android:textColor="@color/colorBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="8dp"
+                        android:layout_marginTop="25dp"
+                        android:background="@color/colorJJ"
+                        android:text="Immunization"
+                        android:textAlignment="center"
+                        android:textSize="18dp"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:id="@+id/linearlayout5"
+                    android:layout_width="0dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:background="@color/colorF">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_card_giftcard_black_24dp" />
+
+                    <TextView
+                        android:textColor="@color/colorBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="8dp"
+                        android:layout_marginTop="25dp"
+                        android:background="@color/colorFF"
+                        android:text="Aggregation"
+                        android:textAlignment="center"
+                        android:textSize="18dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearlayout6"
+                    android:layout_width="0dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:background="@color/colorC">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_folder_shared_black_24dp" />
+
+                    <TextView
+                        android:textColor="@color/colorBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="8dp"
+                        android:layout_marginTop="25dp"
+                        android:background="@color/colorCC"
+                        android:text="Reports"
+                        android:textAlignment="center"
+                        android:textSize="18dp"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
